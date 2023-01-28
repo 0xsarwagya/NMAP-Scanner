@@ -59,3 +59,5 @@ class NmapScanner {
     }
   }
 }
+
+module.exports = NmapScanner;
