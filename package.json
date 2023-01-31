@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "node-nmap": "^4.0.0"
   }
 }
